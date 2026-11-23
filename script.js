@@ -344,7 +344,7 @@ contactForm.addEventListener("submit", function(e) {
 
 
     const mailto =
-        `mailto:your-email@gmail.com` +
+        `mailto:ajaykumarjha382003@gmail.com` +
         `?subject=${encodeURIComponent(subject || "Portfolio Contact")}` +
         `&body=${emailBody}`;
 
